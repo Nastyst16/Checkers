@@ -1,1 +1,1 @@
-## Dorim sa simulam jocul de checkers (dame). Avem o matrice de 8×8 ce reprezinta suprafata de joc. Dandu-se pozitie unei dame pe suprafata de joc, dorim sa calculam noi pozitii pe care poate ajunge aceasta.
+Dorim sa simulam jocul de checkers (dame). Avem o matrice de 8×8 ce reprezinta suprafata de joc. Dandu-se pozitie unei dame pe suprafata de joc, dorim sa calculam noi pozitii pe care poate ajunge aceasta.
